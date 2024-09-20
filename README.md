@@ -8,3 +8,8 @@ script; it will output the c array needed for bitmap ascii in c.
 
 Example of how you can render this font can be found at 
 https://github.com/fantasticmao/font6x8.
+
+## Tips
+1. Make your glyphs in the bottom left of the grid at the website.
+2. The script is currently for 6x8 glyphs. You can easily modify it to support
+other widths by replacing the 6's.
